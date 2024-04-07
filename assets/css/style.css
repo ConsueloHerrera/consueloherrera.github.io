@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+.navbar-image {
+    width: 3em;
+    border-radius: 50%;
+    margin-right: 0.5em;
+}
+
+.card-img-top {
+    object-fit: contain;
+}
+
+.circle-image {
+    width: 3em;
+    height: 3em;
+    border-radius: 5px;
+    margin-right: 0.5em;
+    background-color: white;
+    object-fit: contain;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    margin-top: 1em;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
